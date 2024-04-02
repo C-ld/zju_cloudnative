@@ -7,4 +7,5 @@ https://github.com/megaease/easemesh/pull/156
 ## codes
 working issues:
 
-https://github.com/oceanbase/oceanbase/issues/1896
+https://github.com/oceanbase/oceanbase/pull/1910
+
